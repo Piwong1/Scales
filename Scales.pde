@@ -3,7 +3,7 @@ void setup(){
  background(0);
 }
 void draw(){
-  delay(20);
+
 
   for (int y=-10;y<1300;y+=48){
   for (int x=-10;x<1300;x+=48){
